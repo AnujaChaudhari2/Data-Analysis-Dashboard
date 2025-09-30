@@ -1,12 +1,13 @@
-#IPL Data Analytics Dashboard (Power BI)
-##Project Objective
+# IPL Data Analytics Dashboard (Power BI)
+## Project Objective
 
 The aim of this project is to analyze player performance, team outcomes, and toss impact in the Indian Premier League (IPL) using historical match data. The dashboard highlights key KPIs like top batsmen, best death-over bowlers, strike rate trends, team success, and the role of toss in match outcomes..
 
-##Dataset
+## Dataset
+
 <a href = "https://www.kaggle.com/datasets/manasgarg/ipl">IPL Data</a>
 
-##Key Questions (KPIs)
+## Key Questions (KPIs)
 
 -Who are the Top 10 batsmen in IPL history based on total runs?
 
@@ -24,7 +25,7 @@ The aim of this project is to analyze player performance, team outcomes, and tos
 
 -How do KPIs change when filtering by Year, Team, or Player?
 
-##Process
+## Process
 
 1.Data Collection → Downloaded Kaggle IPL dataset (matches.csv, deliveries.csv).
 
@@ -48,7 +49,7 @@ Aggregated stats at Player, Team, and Season levels.
 
 6.Visualization → Built interactive visuals and slicers.
 
-##Project Insights
+## Project Insights
 
 -Top Scorers: Consistently dominated by players like Virat Kohli, Rohit Sharma, and David Warner.
 
@@ -60,6 +61,6 @@ Aggregated stats at Player, Team, and Season levels.
 
 -Toss Impact: Toss matters (~44–47% impact) but does not guarantee a win.
 
-##Dashboard
+## Dashboard
 
 
