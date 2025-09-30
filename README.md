@@ -62,5 +62,6 @@ Aggregated stats at Player, Team, and Season levels.
 -Toss Impact: Toss matters (~44–47% impact) but does not guarantee a win.
 
 ## Dashboard
+<img width="1118" height="627" alt="Screenshot 2025-09-30 163418" src="https://github.com/user-attachments/assets/e50b3d55-f663-4f09-bbb4-9ff095fa391b" />
 
 
