@@ -64,4 +64,8 @@ Aggregated stats at Player, Team, and Season levels.
 ## Dashboard
 <img width="1118" height="627" alt="Screenshot 2025-09-30 163418" src="https://github.com/user-attachments/assets/e50b3d55-f663-4f09-bbb4-9ff095fa391b" />
 
+## Final Conclusion
+
+The dashboard reveals that while individual brilliance (top scorers, finishers) and team consistency (MI, CSK) drive IPL outcomes, the toss has only a moderate impact on results. Winning the toss offers a slight edge, but strategy and execution are far more decisive.
+
 
